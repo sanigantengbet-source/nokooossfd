@@ -2,17 +2,17 @@ import type {Metadata} from 'next';
 import './globals.css'; // Global styles
 
 export const metadata: Metadata = {
-  title: 'My Google AI Studio App',
-  description: 'An application built with Google AI Studio.',
+  title: 'Nokos Free By SANN404 FORUM GROUP',
+  description: 'Website penyedia nomer virtual.',
   openGraph: {
-    title: 'My Google AI Studio App',
-    description: 'An application built with Google AI Studio.',
+    title: 'Nokos Free By SANN404 FORUM GROUP',
+    description: 'Website penyedia nomer virtual.',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'My Google AI Studio App',
-    description: 'An application built with Google AI Studio.',
+    title: 'Nokos Free By SANN404 FORUM GROUP',
+    description: 'Website penyedia nomer virtual.',
   },
 };
 
