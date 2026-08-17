@@ -1,0 +1,6 @@
+{
+  "name": "SFG-NOKOS - Virtual Numbers & SMS OTP Hub",
+  "description": "Platform nomor virtual dan penerima SMS OTP otomatis (SFG-NOKOS) oleh SANN404 FORUM GROUP. Terintegrasi dengan ZELAPI API, live feed OTP, multi-bahasa SDK, dan siap deploy ke Vercel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
